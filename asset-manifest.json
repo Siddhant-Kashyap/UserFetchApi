@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/UserFetchApi/static/css/main.073c9b0a.css",
+    "main.js": "/UserFetchApi/static/js/main.e76bd4d9.js",
+    "index.html": "/UserFetchApi/index.html",
+    "main.073c9b0a.css.map": "/UserFetchApi/static/css/main.073c9b0a.css.map",
+    "main.e76bd4d9.js.map": "/UserFetchApi/static/js/main.e76bd4d9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.e76bd4d9.js"
+  ]
+}
